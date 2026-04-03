@@ -60,14 +60,6 @@ Interactive AI assistant answering Tableau-related questions using RAG with conv
 
 Upload Tableau course documents and automatically build a vectorized knowledge base for retrieval.
 
-
-### 📄 Source Excerpts & Explainability
-
-![Sources](screenshots/app_sources.png)
-
-Each answer is backed by relevant document chunks with page references for transparency.
-
-
 ### 🧪 RAGAS Evaluation Dashboard
 
 ![Evaluation scores](screenshots/eval_scores.png)
