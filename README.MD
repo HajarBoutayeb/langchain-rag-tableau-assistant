@@ -31,7 +31,8 @@
 langchain-rag-tableau-assistant/
 │
 ├── app.py                        # Main chatbot application
-├── eval.py                       # RAGAS evaluation dashboard
+├── pages/
+│   └── 2_Evaluation.py           # RAGAS evaluation dashboard
 │
 ├── langchain-rag-tableau-assistant.ipynb  # Prototyping notebook
 │
@@ -110,18 +111,12 @@ Phase 4 — Generation
 
 ---
 
-## 🎥 Demo
-
-👉 Coming soon (video demo or live deployment)
-
----
-
 ## 🚀 Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/votre-username/langchain-rag-tableau-assistant.git
+git clone https://github.com/HajarBoutayeb/langchain-rag-tableau-assistant.git
 cd langchain-rag-tableau-assistant
 ```
 
